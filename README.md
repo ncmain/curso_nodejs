@@ -37,10 +37,14 @@ Incluye un servidor HTTP básico que responde con `"Hola Mundo"`, tanto en **loc
 3. Ejecuta el servidor local:
 
    ```bash
-   node servidor-localhost.js
+   node localhost.js
    ```
+4. Para probar un ejemplo de rutas
 
-4. Abre tu navegador en:
+   ```bash
+   node rutas.js
+   ```
+5. Abre tu navegador en:
 
    ```
    http://localhost:3000
@@ -64,7 +68,7 @@ Hola Mundo
 
 Render asigna automáticamente el puerto en la variable de entorno `PORT`.
 
-El archivo **servidor-render.js** está preparado para eso:
+El archivo **server.js** está preparado para eso:
 
 ```js
 const PORT = process.env.PORT || 3000;
