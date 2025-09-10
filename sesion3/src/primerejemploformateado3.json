@@ -1,0 +1,23 @@
+[
+  {
+    "nombre": "Ana",
+    "skills": [
+      "HTML",
+      "CSS"
+    ]
+  },
+  {
+    "nombre": "Luis",
+    "skills": [
+      "Java",
+      "Python"
+    ]
+  },
+  {
+    "nombre": "Maria",
+    "skills": [
+      "Docker",
+      "Net"
+    ]
+  }
+]
