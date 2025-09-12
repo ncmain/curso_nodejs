@@ -1,0 +1,26 @@
+[
+  {
+    "nombre": "Juan",
+    "dni": 12345677,
+    "skills": [
+      "HTML",
+      "CSS"
+    ]
+  },
+  {
+    "nombre": "lorenzo",
+    "dni": 12539800,
+    "skills": [
+      "Quimica",
+      "Matematica"
+    ]
+  },
+  {
+    "nombre": "Camilo",
+    "dni": 12539809,
+    "skills": [
+      "Quimica",
+      "Matematica"
+    ]
+  }
+]
